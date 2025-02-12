@@ -1,0 +1,1 @@
+modification du fichier foo.txt pour l'exercice
